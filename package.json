@@ -1,0 +1,12 @@
+{
+  "repository": 
+  { 
+  	"type": "git",
+  	"url": "https://github.com/edimoldovan/hapi-mongo-models-example"
+  },
+  "dependencies": {
+    "hapi": "latest",
+    "hapi-mongo-models": "latest",
+    "joi": "latest"
+  }
+}
